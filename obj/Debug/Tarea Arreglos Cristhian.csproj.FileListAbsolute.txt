@@ -1,0 +1,8 @@
+C:\Users\crist\Desktop\FollowUp\UH\Tarea Arreglos\Tarea Arreglos Cristhian\bin\Debug\Tarea Arreglos Cristhian.exe.config
+C:\Users\crist\Desktop\FollowUp\UH\Tarea Arreglos\Tarea Arreglos Cristhian\bin\Debug\Tarea Arreglos Cristhian.exe
+C:\Users\crist\Desktop\FollowUp\UH\Tarea Arreglos\Tarea Arreglos Cristhian\bin\Debug\Tarea Arreglos Cristhian.pdb
+C:\Users\crist\Desktop\FollowUp\UH\Tarea Arreglos\Tarea Arreglos Cristhian\obj\Debug\Tarea Arreglos Cristhian.csproj.AssemblyReference.cache
+C:\Users\crist\Desktop\FollowUp\UH\Tarea Arreglos\Tarea Arreglos Cristhian\obj\Debug\Tarea Arreglos Cristhian.csproj.SuggestedBindingRedirects.cache
+C:\Users\crist\Desktop\FollowUp\UH\Tarea Arreglos\Tarea Arreglos Cristhian\obj\Debug\Tarea Arreglos Cristhian.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\FollowUp\UH\Tarea Arreglos\Tarea Arreglos Cristhian\obj\Debug\Tarea Arreglos Cristhian.exe
+C:\Users\crist\Desktop\FollowUp\UH\Tarea Arreglos\Tarea Arreglos Cristhian\obj\Debug\Tarea Arreglos Cristhian.pdb
