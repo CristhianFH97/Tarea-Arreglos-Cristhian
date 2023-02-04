@@ -35,10 +35,10 @@ namespace Tarea_Arreglos_Cristhian
             {
                 float IVA = 0;
                 IVA = salario[i] * 0.13f;
-                Console.WriteLine($"\n------------------------------------------\nNombre del Musico: {musico[i]} \nSalario: {salario[i]} + IVA (13%): {IVA}\n------------------------------------------\n");
+                Console.WriteLine($"\n------------------------------------------\nNombre del Musico: {musico[i]}\nEdad: {edad[i]} \nSalario: {salario[i]} + IVA (13%): {IVA}\nTotal: {(salario[i] * 1.13f)}\n------------------------------------------\n");
             }
 
             Console.ReadLine();
-        }
+        }y
     }
 }
